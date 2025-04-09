@@ -1,0 +1,17 @@
+train: train_subset/images # train images (relative to 'path') 4 images
+val: val_subset/images # val images (relative to 'path') 4 images
+
+names:
+  0: short_sleeved_shirt
+  1: long_sleeved_shirt
+  2: short_sleeved_outwear
+  3: long_sleeved_outwear
+  4: vest
+  5: sling
+  6: shorts
+  7: trousers
+  8: skirt
+  9: short_sleeved_dress
+  10: long_sleeved_dress
+  11: vest_dress
+  12: sling_dress
